@@ -4,3 +4,4 @@ this is a Bash script.
 #как пользоватся?
 очень легко..
 git clone https://github.com/lkopik/FMHACK
+https://github.com/markondej/fm_transmitter.git
